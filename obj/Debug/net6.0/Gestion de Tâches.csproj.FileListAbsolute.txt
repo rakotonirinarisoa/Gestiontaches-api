@@ -1,0 +1,7 @@
+C:\Users\Fiderana\source\repos\Gestion de Tâches\Gestion de Tâches\obj\Debug\net6.0\Gestion de Tâches.csproj.AssemblyReference.cache
+C:\Users\Fiderana\source\repos\Gestion de Tâches\Gestion de Tâches\obj\Debug\net6.0\Gestion de Tâches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fiderana\source\repos\Gestion de Tâches\Gestion de Tâches\obj\Debug\net6.0\Gestion de Tâches.AssemblyInfoInputs.cache
+C:\Users\Fiderana\source\repos\Gestion de Tâches\Gestion de Tâches\obj\Debug\net6.0\Gestion de Tâches.AssemblyInfo.cs
+C:\Users\Fiderana\source\repos\Gestion de Tâches\Gestion de Tâches\obj\Debug\net6.0\Gestion de Tâches.csproj.CoreCompileInputs.cache
+C:\Users\Fiderana\source\repos\Gestion de Tâches\Gestion de Tâches\obj\Debug\net6.0\Gestion de Tâches.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fiderana\source\repos\Gestion de Tâches\Gestion de Tâches\obj\Debug\net6.0\Gestion de Tâches.MvcApplicationPartsAssemblyInfo.cache
